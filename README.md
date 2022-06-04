@@ -1,3 +1,1 @@
-### Demo
-
-https://code-sync.codersgyan.com/
+https://yash17052000.github.io/Real-time-code-editor/
